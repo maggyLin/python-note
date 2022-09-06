@@ -2,11 +2,13 @@
 
 * pip install Pillow (圖片處理)
 
-* pip install PyQt5 (視窗程式)
+* pip install PyQt5 (視窗程式)(GUI要授權?)
 
 * pip3 install pyzbar
 
 * pip install pyinstaller
+
+* pip install wxPython
 ---------------------------------------------
 * Python製作二維碼和條形碼掃描器（pyzbar）
 https://tw511.com/a/01/22634.html

@@ -1,0 +1,6 @@
+### QtDesign to py
+
+> pyuic5 -x test.ui -o UI.py
+
+* -x: 輸出為可單獨執行的檔案 (有 main 的部分)，若無會只有單純封*裝好的 UI class
+* -o: 輸出 .py 檔案

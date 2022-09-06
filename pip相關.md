@@ -11,7 +11,8 @@
 
 1. 安裝 pip install wheel
 2. 下載對應python的安裝包 [XXX.whl] (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
-3. 直接 pip install [XXX.whl]
+3. 直接 pip install <package_name>
+4. or > pip install --no-deps <package_name>
 
 > 以 PycURL 為例子
 1. 確認已經下載 wheel

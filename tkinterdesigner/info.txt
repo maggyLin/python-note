@@ -1,0 +1,4 @@
+pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org -r requirements.txt
+
+
+https://zhuanlan.zhihu.com/p/382930294
