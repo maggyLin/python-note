@@ -1,0 +1,10 @@
+## chromeDriver
+>  selenium 需要用到 driver，大家可以依照自己的作業系統做設定
+
+1. mac 作業系統
+* 如果你用的電腦是 mac，恭喜你，不要需要額外下載 chrome driver 就能夠直接寫使用(不過 chrome 還是要下載)>
+
+2. windows 作業系統
+* 先確認自己 chrome 版本：將chrome://settings/help貼到你的網址列
+* 下載與你 chrome 版本相同的chrome driver : https://chromedriver.chromium.org/downloads
+* 下載的檔案解壓縮後將 chromedriver.exe 放到專案根目錄下
