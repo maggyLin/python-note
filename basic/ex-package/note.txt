@@ -1,0 +1,4 @@
+1. file內有 __init__.py會被視為封包package的設計
+> 範例 geometry 
+
+2. 可以直接 import geometry,使用package下的py
