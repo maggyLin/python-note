@@ -1,0 +1,13 @@
+1. 認識、安裝 Pandas
+1.1 類似試算表的程式化資料分析工具
+1.2 安裝方法 pip install pandas
+
+2. 關鍵概念 Series
+2.1 認識單維度資料
+2.2 建立 Series
+2.3 操作 Series (最大值、中位數、基本運算)
+
+3. 關鍵概念 DataFrame
+3.1 認識雙維度資料(有columns and rows)
+3.2 建立 DataFrame
+3.3 操作 DataFrame (取得欄或列)
