@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=screwdriver
+Type=Application
+Terminal=true
+Exec=/home/wnc/esop/da3c1/da3c4.sh
+Icon=/home/wnc/.local/share/icons/hicolor/225X225/da3c4.png
+
+Name[zh_TW]=da3c4.desktop

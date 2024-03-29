@@ -1,10 +1,5 @@
 import urllib.request as req
-from bs4 import BeautifulSoup
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.poolmanager import PoolManager
 import ssl
-import json
 import urllib
 from urllib.error import HTTPError
 
