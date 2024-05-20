@@ -2,12 +2,12 @@
 
 
 #  建立虛擬環境
-### 自訂產生一個叫做env01的虛擬環境
-> virtualenv env01
+### 自訂產生一個叫做ESOP的虛擬環境
+> virtualenv ESOP
 > virtualenv -p /usr/bin/python3 env02  #指定python version 
 
-# 啟動虛擬環境
+# 啟動虛擬環境 (./Scriptes)
 > activate
 
-# 離開虛擬環境
+# 離開虛擬環境 (./Scriptes)
 > deactivate
